@@ -1,8 +1,8 @@
-# spring-boot2-jpa-crud-example
-spring boot2 jpa crud REST APIs example
+# BackEndPart
+spring boot application that works on this link: 
+
+http://localhost:8080/api/v1/books/
+
+I used NetBeans to run the application but Terminal/cmd can be used to run.
 
 
-Below is the step by step article which explained this Spring boot 2 JPA CRUD Restful apis example :
-
-
-http://www.javaguides.net/2018/09/spring-boot-2-jpa-mysql-crud-example.html
